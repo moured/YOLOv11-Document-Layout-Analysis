@@ -4,11 +4,11 @@
 </div>
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/omoured/YOLOv10-Document-Layout-Analysis">
+  <a href="https://huggingface.co/spaces/omoured/YOLOv11-Document-Layout-Analysis">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Interactive%20Demo%20on%20Hugging%20Face-blue"/>
   </a>
   &nbsp;
-  <a href="https://colab.research.google.com/github/moured/YOLOv10-Document-Layout-Analysis/blob/main/demo.ipynb">
+  <a href="https://colab.research.google.com/github/moured/YOLOv11-Document-Layout-Analysis/blob/main/demo.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
   </a>
 </p>
