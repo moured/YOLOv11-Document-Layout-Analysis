@@ -49,6 +49,12 @@ The models were fine-tuned using 4xA100 GPUs on the Doclaynet-base dataset, whic
   <img src="images/samples.gif" height="640"/>
 </p>
 
+## Results 📊
+| Model   | mAP50 | mAP50-95 | Model Weights |
+|---------|-------|----------|---------------|
+| YOLOv11-x | 0.924 | 0.755 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11x_best.pt) |
+| YOLOv11-l | 0.928 | 0.753 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11l_best.pt) | 
+
 ### Installation 💻
 ```
 pip install ultralytics
