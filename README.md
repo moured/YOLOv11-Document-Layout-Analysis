@@ -45,6 +45,10 @@ The models were fine-tuned using 4xA100 GPUs on the Doclaynet-base dataset, whic
 **Classes:**  
 **0:** Caption, **1:** Footnote, **2:** Formula, **3:** List-item, **4:** Page-footer, **5:** Page-header, **6:** Picture, **7:** Section-header, **8:** Table, **9:** Text, **10:** Title
 
+<p align="center">
+  <img src="images/samples.gif" height="640"/>
+</p>
+
 ### Installation 💻
 ```
 pip install ultralytics
