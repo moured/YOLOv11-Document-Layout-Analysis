@@ -59,11 +59,6 @@ The models were fine-tuned using 4xA100 GPUs on the Doclaynet-base dataset, whic
 | YOLOv11-s | 0.917 | 0.737 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11s_best.pt) |
 | YOLOv11-n | 0.901 | 0.707 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11n_best.pt) | 
 
-     
-    
-https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11n_best.pt
-https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11s_best.pt
-
 ### Installation 💻
 ```
 pip install ultralytics
