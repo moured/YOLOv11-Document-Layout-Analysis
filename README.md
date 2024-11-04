@@ -34,7 +34,8 @@
 
 I have trained YOLOv11 on the DocLayNet dataset for this project. Below is the results table. Feel free to use our fine-tuned models, and please remember to cite YOLOv11, DocLayNet, and our repository. If you find this repository useful, don't forget to give it a 🌟!
 
-- **02/11/2024**: 🚀 Uploaded Weights (check the table below).
+- **04/11/2024**: 🚀 Uploaded n,s model Weights (check the table below).
+- **02/11/2024**: 🚀 Uploaded x,l,m model Weights (check the table below).
 - **01/11/2024**: 🤗 HuggingFace demo is live with YOLOv11-x fine-tuned weights.
 
 <!-- ABOUT THE PROJECT -->
@@ -55,6 +56,13 @@ The models were fine-tuned using 4xA100 GPUs on the Doclaynet-base dataset, whic
 | YOLOv11-x | 0.924 | 0.755 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11x_best.pt) |
 | YOLOv11-l | 0.928 | 0.753 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11l_best.pt) | 
 | YOLOv11-m | 0.924 | 0.748 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11m_best.pt) | 
+| YOLOv11-s | 0.917 | 0.737 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11s_best.pt) |
+| YOLOv11-n | 0.901 | 0.707 | [Download](https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11n_best.pt) | 
+
+     
+    
+https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11n_best.pt
+https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11s_best.pt
 
 ### Installation 💻
 ```
